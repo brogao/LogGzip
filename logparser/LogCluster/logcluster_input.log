@@ -1,0 +1,2000 @@
+PacketResponder 1 for block  terminating
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 2 for block  terminating
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 2 for block  terminating
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000590_0/part-00590. 
+PacketResponder 1 for block  terminating
+Received block  of size 67108864 from /
+BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000742_0/part-00742. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000487_0/part-00487. 
+Verification succeeded for 
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Received block  of size 3542967 from /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 3549917
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+PacketResponder 1 for block  terminating
+Received block  of size 67108864 from /
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_001648_0/part-01648. 
+BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_001866_0/part-01866. 
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+PacketResponder 0 for block  terminating
+Received block  of size 67108864 from /
+Verification succeeded for 
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir5/
+ Served block  to /
+ Served block  to /
+ Served block  to /
+ Served block  to /
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+ Served block  to /
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+ Served block  to /
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+ Served block  to /
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+ Served block  to /
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+ Served block  to /
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+BLOCK* NameSystem.allocateBlock: /user/root/sortrand/_temporary/_task_200811092030_0002_r_000296_0/part-00296. 
+PacketResponder 1 for block  terminating
+Receiving block  src: / dest: /
+PacketResponder 1 for block  terminating
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/sortrand/_temporary/_task_200811092030_0002_r_000230_0/part-00230. 
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/sortrand/_temporary/_task_200811092030_0002_r_000169_0/part-00169. 
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+Received block  of size 67108864 from /
+PacketResponder 1 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+BLOCK* NameSystem.allocateBlock: /user/root/sortrand/_temporary/_task_200811092030_0002_r_000318_0/part-00318. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/sortrand/_temporary/_task_200811092030_0002_r_000318_0/part-00318. 
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+PacketResponder 2 for block  terminating
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+PacketResponder 2 for block  terminating
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+PacketResponder 2 for block  terminating
+PacketResponder 1 for block  terminating
+Received block  of size 25933924 from /
+PacketResponder 0 for block  terminating
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/sortrand/_temporary/_task_200811092030_0002_r_000138_0/part-00138. 
+Verification succeeded for 
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_000382_0/part-00382. 
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_000392_0/part-00392. 
+PacketResponder 2 for block  terminating
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Verification succeeded for 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_000675_0/part-00675. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_000705_0/part-00705. 
+PacketResponder 1 for block  terminating
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+PacketResponder 1 for block  terminating
+PacketResponder 1 for block  terminating
+PacketResponder 0 for block  terminating
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+PacketResponder 1 for block  terminating
+PacketResponder 2 for block  terminating
+PacketResponder 0 for block  terminating
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001095_0/part-01095. 
+PacketResponder 1 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+PacketResponder 2 for block  terminating
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001365_0/part-01365. 
+PacketResponder 1 for block  terminating
+Received block  of size 67108864 from /
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001506_0/part-01506. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001597_0/part-01597. 
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001377_0/part-01377. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001728_0/part-01728. 
+PacketResponder 1 for block  terminating
+PacketResponder 2 for block  terminating
+Receiving block  src: / dest: /
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001661_0/part-01661. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001630_0/part-01630. 
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001817_0/part-01817. 
+Received block  of size 67108864 from /
+PacketResponder 1 for block  terminating
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001840_0/part-01840. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001976_0/part-01976. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 0 for block  terminating
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+ Served block  to /
+:Got exception while serving  to /:
+ Served block  to /
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+ Served block  to /
+:Got exception while serving  to /:
+ Served block  to /
+ Served block  to /
+ Served block  to /
+ Served block  to /
+ Served block  to /
+ Served block  to /
+ Served block  to /
+ Served block  to /
+ Served block  to /
+ Served block  to /
+:Got exception while serving  to /:
+ Served block  to /
+ Served block  to /
+ Served block  to /
+ Served block  to /
+ Served block  to /
+ Served block  to /
+:Got exception while serving  to /:
+ Served block  to /
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+ Served block  to /
+ Served block  to /
+ Served block  to /
+ Served block  to /
+:Got exception while serving  to /:
+ Served block  to /
+ Served block  to /
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+ Served block  to /
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+ Served block  to /
+ Served block  to /
+ Served block  to /
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+ Served block  to /
+ Served block  to /
+ Served block  to /
+Verification succeeded for 
+Verification succeeded for 
+Verification succeeded for 
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+ Served block  to /
+ Served block  to /
+:Got exception while serving  to /:
+ Served block  to /
+ Served block  to /
+:Got exception while serving  to /:
+Verification succeeded for 
+ Served block  to /
+:Got exception while serving  to /:
+ Served block  to /
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir51/
+Received block  of size 67108864 from /
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir18/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir27/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir29/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir9/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir32/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir41/
+Received block  of size 67108864 from /
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir11/
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811101024_0001_m_000206_0/part-00206. 
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir1/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir25/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir42/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir26/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir18/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir41/
+Received block  of size 67108864 from /
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir33/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir60/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir29/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir32/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir20/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir34/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir6/
+Deleting block  file /mnt/hadoop/dfs/data/current/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir39/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir6/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir57/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir25/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir38/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir0/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir48/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir57/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir23/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir13/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir30/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir47/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir21/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir4/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir53/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir37/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir29/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir40/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir27/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir50/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir26/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir16/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir40/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir15/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir24/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir12/
+Received block  of size 67108864 from /
+BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811101024_0001_m_000097_0/part-00097. 
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir39/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir30/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir7/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir26/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir45/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir30/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir0/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir15/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir0/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir60/
+Deleting block  file /mnt/hadoop/dfs/data/current/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir59/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir50/
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir14/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir28/
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir46/
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811101024_0001_m_000056_0/part-00056. 
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir46/
+PacketResponder 0 for block  terminating
+Received block  of size 67108864 from /
+BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811101024_0001_m_000346_0/part-00346. 
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 3549832
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 3547304
+Receiving block  src: / dest: /
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811101024_0001_m_000121_0/part-00121. 
+Received block  of size 67108864 from /
+PacketResponder 1 for block  terminating
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir56/
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir55/
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811101024_0001_m_000749_0/part-00749. 
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir53/
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811101024_0001_m_001197_0/part-01197. 
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811101024_0001_m_001353_0/part-01353. 
+Received block  of size 67108864 from /
+PacketResponder 2 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811101024_0001_m_001495_0/part-01495. 
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811101024_0001_m_001587_0/part-01587. 
+Receiving block  src: / dest: /
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 3547172
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+Verification succeeded for 
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Received block  of size 3540106 from /
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir48/
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+PacketResponder 1 for block  terminating
+PacketResponder 2 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt2/_temporary/_task_200811101024_0002_m_000299_0/part-00299. 
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt2/_temporary/_task_200811101024_0002_m_000054_0/part-00054. 
+Receiving block  src: / dest: /
+PacketResponder 1 for block  terminating
+PacketResponder 2 for block  terminating
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 28492032 from /
+PacketResponder 2 for block  terminating
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt2/_temporary/_task_200811101024_0002_m_001080_0/part-01080. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt2/_temporary/_task_200811101024_0002_m_000809_0/part-00809. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+PacketResponder 2 for block  terminating
+Receiving block  src: / dest: /
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 2 for block  terminating
+Received block  of size 67108864 from /
+Verification succeeded for 
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt2/_temporary/_task_200811101024_0002_m_001335_0/part-01335. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+PacketResponder 1 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 28489733
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 28490269
+PacketResponder 2 for block  terminating
+PacketResponder 1 for block  terminating
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt2/_temporary/_task_200811101024_0002_m_001968_1/part-01968. 
+Receiving block  src: / dest: /
+PacketResponder 1 for block  terminating
+ Served block  to /
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+ Served block  to /
+:Got exception while serving  to /:
+ Served block  to /
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+ Served block  to /
+:Got exception while serving  to /:
+ Served block  to /
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+Verification succeeded for 
+:Got exception while serving  to /:
+ Served block  to /
+:Got exception while serving  to /:
+BLOCK* NameSystem.allocateBlock: /user/root/sortrand2/_temporary/_task_200811101024_0003_r_000258_0/part-00258. 
+Receiving block  src: / dest: /
+PacketResponder 2 for block  terminating
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/sortrand2/_temporary/_task_200811101024_0003_r_000257_0/part-00257. 
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 2 for block  terminating
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.allocateBlock: /user/root/sortrand2/_temporary/_task_200811101024_0003_r_000210_0/part-00210. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 2 for block  terminating
+PacketResponder 0 for block  terminating
+PacketResponder 2 for block  terminating
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+PacketResponder 1 for block  terminating
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/sortrand2/_temporary/_task_200811101024_0003_r_000116_0/part-00116. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Verification succeeded for 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.allocateBlock: /user/root/sortrand2/_temporary/_task_200811101024_0003_r_000315_0/part-00315. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/sortrand2/_temporary/_task_200811101024_0003_r_000152_0/part-00152. 
+BLOCK* NameSystem.allocateBlock: /user/root/sortrand2/_temporary/_task_200811101024_0003_r_000344_0/part-00344. 
+Receiving block  src: / dest: /
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+Verification succeeded for 
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+ Served block  to /
+ Served block  to /
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+ Served block  to /
+Verification succeeded for 
+:Got exception while serving  to /:
+ Served block  to /
+:Got exception while serving  to /:
+ Served block  to /
+:Got exception while serving  to /:
+Verification succeeded for 
+Verification succeeded for 
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+ Served block  to /
+:Got exception while serving  to /:
+ Served block  to /
+:Got exception while serving  to /:
+ Served block  to /
+ Served block  to /
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+ Served block  to /
+Received block  of size 67108864 from /
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir2/
+Receiving block  src: / dest: /
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir8/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir22/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir61/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir35/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir34/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir57/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir31/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir53/
+Receiving block  src: / dest: /
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir41/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir42/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir14/
+Received block  of size 67108864 from /
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir31/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir38/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir34/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir34/
+Deleting block  file /mnt/hadoop/dfs/data/current/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir1/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir55/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir32/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir15/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir34/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir52/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir10/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir39/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir32/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir33/
+Deleting block  file /mnt/hadoop/dfs/data/current/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir26/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir60/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir57/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir4/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir14/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir19/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir54/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir63/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir18/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir24/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir33/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir55/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir15/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir27/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir59/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir59/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir22/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir1/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir16/
+Receiving block  src: / dest: /
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir54/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir34/
+Receiving block  src: / dest: /
+PacketResponder 1 for block  terminating
+Receiving block  src: / dest: /
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir35/
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+ Starting thread to transfer block  to 
+Received block  of size 3552954 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 0 for block  terminating
+PacketResponder 0 for block  terminating
+PacketResponder 1 for block  terminating
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir10/
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Received block  of size 3554889 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* ask  to delete  
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/rand3/_temporary/_task_200811101024_0005_m_000720_0/part-00720. 
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+PacketResponder 2 for block  terminating
+Receiving block  src: / dest: /
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/rand3/_temporary/_task_200811101024_0005_m_001091_0/part-01091. 
+Receiving block  src: / dest: /
+PacketResponder 2 for block  terminating
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 0 for block  terminating
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+PacketResponder 2 for block  terminating
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/rand3/_temporary/_task_200811101024_0005_m_001655_0/part-01655. 
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+PacketResponder 2 for block  terminating
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/rand3/_temporary/_task_200811101024_0005_m_001824_0/part-01824. 
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir36/
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt3/_temporary/_task_200811101024_0007_m_000190_0/part-00190. 
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir56/
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir34/
+Deleting block  file /mnt/hadoop/dfs/data/current/
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt3/_temporary/_task_200811101024_0007_m_000374_0/part-00374. 
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir35/
+Deleting block  file /mnt/hadoop/dfs/data/current/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir2/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir35/
+Receiving block  src: / dest: /
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir27/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir35/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir33/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir53/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir18/
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt3/_temporary/_task_200811101024_0007_m_000186_0/part-00186. 
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Received block  of size 28496610 from /
+BLOCK* ask  to delete  
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+PacketResponder 0 for block  terminating
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt3/_temporary/_task_200811101024_0007_m_000585_0/part-00585. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 28500222
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 28499417
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+PacketResponder 2 for block  terminating
+Received block  of size 67108864 from /
+PacketResponder 1 for block  terminating
+Received block  of size 67108864 from /
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt3/_temporary/_task_200811101024_0007_m_001560_0/part-01560. 
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt3/_temporary/_task_200811101024_0007_m_001230_0/part-01230. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt3/_temporary/_task_200811101024_0007_m_001662_0/part-01662. 
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Verification succeeded for 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 0 for block  terminating
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 2 for block  terminating
+PacketResponder 1 for block  terminating
+Received block  of size 67108864 from /
+PacketResponder 1 for block  terminating
+PacketResponder 0 for block  terminating
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+ Served block  to /
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+ Served block  to /
+ Served block  to /
+:Got exception while serving  to /:
+ Served block  to /
+ Served block  to /
+ Served block  to /
+ Served block  to /
+ Served block  to /
+:Got exception while serving  to /:
+ Served block  to /
+:Got exception while serving  to /:
+:Got exception while serving  to /:
+ Served block  to /
+ Served block  to /
+ Served block  to /
+:Got exception while serving  to /:
+ Served block  to /
+ Served block  to /
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir32/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir24/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir34/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir33/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir38/
+ Served block  to /
+Received block  of size 67108864 from /
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir7/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir31/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir1/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir42/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir15/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir36/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir26/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir32/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir1/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir62/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir5/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir16/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir24/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir39/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir15/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir28/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir33/
+Received block  of size 67108864 from /
+ Served block  to /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.allocateBlock: /user/root/rand4/_temporary/_task_200811101024_0009_m_000115_0/part-00115. 
+BLOCK* NameSystem.allocateBlock: /user/root/rand4/_temporary/_task_200811101024_0009_m_000176_0/part-00176. 
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+PacketResponder 1 for block  terminating
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+PacketResponder 2 for block  terminating
+PacketResponder 0 for block  terminating
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 3530010
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 3543900
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+PacketResponder 2 for block  terminating
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.allocateBlock: /user/root/rand4/_temporary/_task_200811101024_0009_m_001061_0/part-01061. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+PacketResponder 1 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.allocateBlock: /user/root/rand4/_temporary/_task_200811101024_0009_m_001281_0/part-01281. 
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/rand4/_temporary/_task_200811101024_0009_m_001398_0/part-01398. 
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+PacketResponder 1 for block  terminating
+Received block  of size 67108864 from /
+PacketResponder 0 for block  terminating
+Received block  of size 67108864 from /
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/rand4/_temporary/_task_200811101024_0009_m_001611_0/part-01611. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/rand4/_temporary/_task_200811101024_0009_m_001574_0/part-01574. 
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 2 for block  terminating
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 2 for block  terminating
+Receiving block  src: / dest: /
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir40/
+PacketResponder 2 for block  terminating
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt4/_temporary/_task_200811101024_0010_m_000222_0/part-00222. 
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+PacketResponder 2 for block  terminating
+PacketResponder 2 for block  terminating
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Received block  of size 28497700 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 2 for block  terminating
+PacketResponder 1 for block  terminating
+Received block  of size 67108864 from /
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt4/_temporary/_task_200811101024_0010_m_000881_0/part-00881. 
+PacketResponder 2 for block  terminating
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 2 for block  terminating
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 28482383
+PacketResponder 0 for block  terminating
+PacketResponder 0 for block  terminating
+Received block  of size 28494398 from /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+PacketResponder 2 for block  terminating
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 2 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 2 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+Received block  of size 28503188 from /
+PacketResponder 1 for block  terminating
+PacketResponder 2 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt4/_temporary/_task_200811101024_0010_m_001716_0/part-01716. 
+PacketResponder 1 for block  terminating
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Received block  of size 28485342 from /
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+Verification succeeded for 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir52/
+Receiving block  src: / dest: /
+Deleting block  file /mnt/hadoop/dfs/data/current/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir19/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir33/
+Received block  of size 67108864 from /
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir49/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir38/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir34/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir36/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir27/
+Received block  of size 67108864 from /
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir57/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir58/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir34/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir5/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir36/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir11/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir9/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir62/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir30/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir18/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir44/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir29/
+Deleting block  file /mnt/hadoop/dfs/data/current/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir31/
+Receiving block  src: / dest: /
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir15/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir42/
+Deleting block  file /mnt/hadoop/dfs/data/current/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir19/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir19/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir48/
+Deleting block  file /mnt/hadoop/dfs/data/current/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir36/
+Receiving block  src: / dest: /
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir40/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir16/
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+BLOCK* NameSystem.allocateBlock: /user/root/rand5/_temporary/_task_200811101024_0011_m_000040_0/part-00040. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/rand5/_temporary/_task_200811101024_0011_m_000541_0/part-00541. 
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  src: / dest: / of size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 3546628
+Received block  of size 67108864 from /
+PacketResponder 2 for block  terminating
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 2 for block  terminating
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+PacketResponder 2 for block  terminating
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.allocateBlock: /user/root/rand5/_temporary/_task_200811101024_0011_m_001408_0/part-01408. 
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 3534443
+Received block  of size 67108864 from /
+BLOCK* NameSystem.allocateBlock: /user/root/rand5/_temporary/_task_200811101024_0011_m_001730_0/part-01730. 
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+PacketResponder 1 for block  terminating
+PacketResponder 1 for block  terminating
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 3552141
+Received block  of size 67108864 from /
+Received block  of size 10157271 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 0 for block  terminating
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 3550839
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+PacketResponder 2 for block  terminating
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 28484260
+PacketResponder 2 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+PacketResponder 2 for block  terminating
+Received block  of size 67108864 from /
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt5/_temporary/_task_200811101024_0012_m_001192_0/part-01192. 
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt5/_temporary/_task_200811101024_0012_m_000900_0/part-00900. 
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+Received block  of size 67108864 from /
+PacketResponder 2 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt5/_temporary/_task_200811101024_0012_m_001314_0/part-01314. 
+PacketResponder 0 for block  terminating
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt5/_temporary/_task_200811101024_0012_m_001529_0/part-01529. 
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 28508403
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt5/_temporary/_task_200811101024_0012_m_001726_0/part-01726. 
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt5/_temporary/_task_200811101024_0012_m_001554_0/part-01554. 
+Receiving block  src: / dest: /
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt5/_temporary/_task_200811101024_0012_m_001709_0/part-01709. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt5/_temporary/_task_200811101024_0012_m_001709_0/part-01709. 
+PacketResponder 2 for block  terminating
+Received block  of size 67108864 from /
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt5/_temporary/_task_200811101024_0012_m_001635_0/part-01635. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir58/
+BLOCK* ask  to delete                                                                                                     
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir5/
+BLOCK* ask  to delete                                                                                                     
+Received block  of size 67108864 from /
+PacketResponder 1 for block  terminating
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir31/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir29/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir37/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir3/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir23/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir14/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir1/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir28/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir40/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir60/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir56/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir54/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir29/
+PacketResponder 1 for block  terminating
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir39/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir11/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir28/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir41/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir17/
+PacketResponder 1 for block  terminating
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir37/
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.allocateBlock: /user/root/rand6/_temporary/_task_200811101024_0013_m_000153_0/part-00153. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir0/
+BLOCK* NameSystem.allocateBlock: /user/root/rand6/_temporary/_task_200811101024_0013_m_000197_0/part-00197. 
+Received block  of size 67108864 from /
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Verification succeeded for 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/rand6/_temporary/_task_200811101024_0013_m_000451_0/part-00451. 
+BLOCK* NameSystem.allocateBlock: /user/root/rand6/_temporary/_task_200811101024_0013_m_000079_0/part-00079. 
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/rand6/_temporary/_task_200811101024_0013_m_000077_0/part-00077. 
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+PacketResponder 1 for block  terminating
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+PacketResponder 1 for block  terminating
+Receiving block  src: / dest: /
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/rand6/_temporary/_task_200811101024_0013_m_000523_0/part-00523. 
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.allocateBlock: /user/root/rand6/_temporary/_task_200811101024_0013_m_000997_0/part-00997. 
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 3541872
+PacketResponder 2 for block  terminating
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.allocateBlock: /user/root/rand6/_temporary/_task_200811101024_0013_m_001195_0/part-01195. 
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 2 for block  terminating
+Received block  of size 67108864 from /
+PacketResponder 1 for block  terminating
+PacketResponder 1 for block  terminating
+PacketResponder 2 for block  terminating
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 0 for block  terminating
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Received block  of size 3547785 from /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+PacketResponder 1 for block  terminating
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+PacketResponder 2 for block  terminating
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.allocateBlock: /user/root/rand6/_temporary/_task_200811101024_0013_m_001850_0/part-01850. 
+BLOCK* NameSystem.allocateBlock: /user/root/rand6/_temporary/_task_200811101024_0013_m_001835_0/part-01835. 
+PacketResponder 0 for block  terminating
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/rand6/_temporary/_task_200811101024_0013_m_001983_0/part-01983. 
+PacketResponder 2 for block  terminating
+PacketResponder 1 for block  terminating
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.allocateBlock: /user/root/rand6/_temporary/_task_200811101024_0013_m_002009_1/part-02009. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 41287838 from /
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+Receiving block  src: / dest: /
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir46/
+PacketResponder 0 for block  terminating
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir33/
+Receiving block  src: / dest: /
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir30/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir56/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir26/
+PacketResponder 0 for block  terminating
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir63/
+Deleting block  file /mnt/hadoop/dfs/data/current/
+Deleting block  file /mnt/hadoop/dfs/data/current/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir38/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir54/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir16/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir34/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir45/
+Deleting block  file /mnt/hadoop/dfs/data/current/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir57/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir43/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir0/
+Deleting block  file /mnt/hadoop/dfs/data/current/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir39/
+Deleting block  file /mnt/hadoop/dfs/data/current/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir4/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir24/
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir7/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir13/
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir27/
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+BLOCK* ask  to replicate  to datanode(s) 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Received block  src: / dest: / of size 67108864
+Receiving block  src: / dest: /
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir2/
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+PacketResponder 2 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.allocateBlock: /user/root/rand7/_temporary/_task_200811101024_0014_m_001049_0/part-01049. 
+PacketResponder 0 for block  terminating
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+PacketResponder 1 for block  terminating
+Received block  of size 67108864 from /
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/rand7/_temporary/_task_200811101024_0014_m_000973_0/part-00973. 
+BLOCK* NameSystem.allocateBlock: /user/root/rand7/_temporary/_task_200811101024_0014_m_001348_0/part-01348. 
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+PacketResponder 1 for block  terminating
+Receiving block  src: / dest: /
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+PacketResponder 0 for block  terminating
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/rand7/_temporary/_task_200811101024_0014_m_001394_0/part-01394. 
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 0 for block  terminating
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/rand7/_temporary/_task_200811101024_0014_m_001736_0/part-01736. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/rand7/_temporary/_task_200811101024_0014_m_001649_0/part-01649. 
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.allocateBlock: /user/root/rand7/_temporary/_task_200811101024_0014_m_001940_0/part-01940. 
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/rand7/_temporary/_task_200811101024_0014_m_001642_0/part-01642. 
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Received block  of size 3538321 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+BLOCK* NameSystem.allocateBlock: /user/root/rand7/_temporary/_task_200811101024_0014_m_002007_0/part-02007. 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+BLOCK* NameSystem.delete:  is added to invalidSet of 
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir35/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir46/
+PacketResponder 0 for block  terminating
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir38/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir36/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir21/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir47/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir6/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir19/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir1/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir36/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir59/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir2/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir46/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir17/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir23/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir6/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir10/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir13/
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir42/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir43/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir38/
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir61/
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.allocateBlock: /user/root/rand8/_temporary/_task_200811101024_0015_m_000480_0/part-00480. 
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/rand8/_temporary/_task_200811101024_0015_m_000737_0/part-00737. 
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* ask  to delete          
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir3/
+PacketResponder 0 for block  terminating
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+PacketResponder 1 for block  terminating
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/rand8/_temporary/_task_200811101024_0015_m_000882_0/part-00882. 
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 3546314
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir24/
+BLOCK* NameSystem.allocateBlock: /user/root/rand8/_temporary/_task_200811101024_0015_m_001033_0/part-01033. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/rand8/_temporary/_task_200811101024_0015_m_000939_0/part-00939. 
+PacketResponder 2 for block  terminating
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+Receiving block  src: / dest: /
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/rand8/_temporary/_task_200811101024_0015_m_001294_0/part-01294. 
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+Verification succeeded for 
+Received block  of size 67108864 from /
+PacketResponder 2 for block  terminating
+PacketResponder 2 for block  terminating
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+PacketResponder 2 for block  terminating
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+BLOCK* NameSystem.allocateBlock: /user/root/rand8/_temporary/_task_200811101024_0015_m_001425_0/part-01425. 
+Received block  of size 67108864 from /
+BLOCK* NameSystem.allocateBlock: /user/root/rand8/_temporary/_task_200811101024_0015_m_001757_0/part-01757. 
+BLOCK* NameSystem.allocateBlock: /user/root/rand8/_temporary/_task_200811101024_0015_m_001473_0/part-01473. 
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.allocateBlock: /user/root/rand8/_temporary/_task_200811101024_0015_m_001860_0/part-01860. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 0 for block  terminating
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Received block  of size 67108864 from /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 15715490
+Deleting block  file /mnt/hadoop/dfs/data/current/subdir38/
+PacketResponder 1 for block  terminating
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 0 for block  terminating
+PacketResponder 2 for block  terminating
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 1 for block  terminating
+Received block  of size 67108864 from /
+PacketResponder 1 for block  terminating
+BLOCK* NameSystem.allocateBlock: /user/root/randtxt9/_temporary/_task_200811101024_0016_m_000347_0/part-00347. 
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  is added to  size 67108864
+PacketResponder 0 for block  terminating
+PacketResponder 1 for block  terminating
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+Receiving block  src: / dest: /
+Received block  of size 67108864 from /
+Receiving block  src: / dest: /
+PacketResponder 0 for block  terminating
+Receiving block  src: / dest: /

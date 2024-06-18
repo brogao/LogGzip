@@ -20,9 +20,9 @@ from logparser import Brain
 from logparser.utils import evaluator
 import pandas as pd
 import os
+import time
 
-
-input_dir = "../../data/loghub_2k/"  # The input directory of log file
+input_dir = "../../data/loghub_2K/"  # The input directory of log file
 output_dir = "Brain_result/"  # The output directory of parsing results
 
 
@@ -165,25 +165,44 @@ for dataset, setting in benchmark_settings.items():
         threshold=setting["theshold"],
         logname=dataset,
     )
+
+    start_time = time.time()
+
     parser.parse(log_file)
 
-    F1_measure, accuracy = evaluator.evaluate(
-        groundtruth=os.path.join(indir, log_file + "_structured.csv"),
+    parsing_time = time.time() - start_time
+
+    parsing_time = round(parsing_time, 3)
+
+    GA, FGA, PTA, RTA, FTA = evaluator.evaluate(
+        groundtruth=os.path.join(indir, log_file + "_structured_cor.csv"),
+        # groundtruth=os.path.join(indir, log_file + "_structured_corrected.csv"),
         parsedresult=os.path.join(output_dir, log_file + "_structured.csv"),
     )
-    benchmark_result.append([dataset, F1_measure, accuracy])
 
-print("\n=== Overall evaluation results ===")
-df_result = pd.DataFrame(
-    benchmark_result, columns=["Dataset", "F1_measure", "Accuracy"]
-)
+    GA = round(GA, 3)
+    FGA = round(FGA, 3)
+    FTA = round(FTA, 3)
+    PTA = round(PTA, 3)
+    RTA = round(RTA, 3)
+
+    benchmark_result.append([dataset, GA, FGA, PTA, RTA, FTA, parsing_time])
+
+print("=== Overall evaluation results ===")
+df_result = pd.DataFrame(benchmark_result, columns=["Dataset", "GA", "FGA", "PTA", "RTA", "FTA", "P_Time"])
 df_result.set_index("Dataset", inplace=True)
-# Calculate average values of F1_measure and Accuracy
-average_f1 = df_result["F1_measure"].mean()
-average_accuracy = df_result["Accuracy"].mean()
 
-# Add a new row with averages to the DataFrame
-df_result.loc["Average"] = [average_f1, average_accuracy]
+average_GA = round(df_result["GA"].mean(), 3)
+average_FGA = round(df_result["FGA"].mean(), 3)
+average_PTA = round(df_result["PTA"].mean(), 3)
+average_RTA = round(df_result["RTA"].mean(), 3)
+average_FTA = round(df_result["FTA"].mean(), 3)
+average_parsing_time = round(df_result["P_Time"].mean(), 3)
 
+df_result.loc["Average"] = [average_GA, average_FGA, average_PTA,
+                            average_RTA, average_FTA, average_parsing_time]
 print(df_result)
-df_result.to_csv("Brain_bechmark_result.csv", float_format="%.6f")
+# 将结果保存为CSV文件
+output_csv_file = os.path.join(output_dir, "Brain_results.csv")
+df_result.to_csv(output_csv_file)
+print(f"Results have been saved to {output_csv_file}")

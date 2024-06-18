@@ -1,4 +1,4 @@
-# Compressor Framework
+# compressors.py
 
 from importlib import import_module
 
@@ -50,4 +50,4 @@ class DefaultCompressor:
 """Test Compressors"""
 if __name__ == "__main__":
     comp = DefaultCompressor("gzip")
-    print(comp.get_compressed_len("Hello world"))
+    print(comp.get_compressed_len("测试 DefaultCompressor 类是否正确工作"))

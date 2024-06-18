@@ -20,7 +20,7 @@ from logparser.LogCluster import LogParser
 from logparser.utils import evaluator
 import os
 import pandas as pd
-
+import time
 
 input_dir = "../../data/loghub_2k/"  # The input directory of log file
 output_dir = "LogCluster_result/"  # The output directory of parsing results
@@ -146,16 +146,45 @@ for dataset, setting in benchmark_settings.items():
         rex=setting["regex"],
         rsupport=setting["rsupport"],
     )
+    # 开始解析前获取当前时间
+    start_time = time.time()
+    # 开始解析
     parser.parse(log_file)
-
-    F1_measure, accuracy = evaluator.evaluate(
-        groundtruth=os.path.join(indir, log_file + "_structured.csv"),
+    # 解析完成后获取当前时间并计算解析所需时间
+    parsing_time = time.time() - start_time
+    # 保留三位小数
+    parsing_time = round(parsing_time, 3)
+    # 更新调用evaluate函数
+    GA, PA, FGA, PTA, RTA, FTA = evaluator.evaluate(
+        groundtruth=os.path.join(indir, log_file + "_structured_cor.csv"),
+        # groundtruth=os.path.join(indir, log_file + "_structured_corrected.csv"),
         parsedresult=os.path.join(output_dir, log_file + "_structured.csv"),
     )
-    bechmark_result.append([dataset, F1_measure, accuracy])
+    # 对所有指标保留三位小数
+    GA = round(GA, 3)
+    PA = round(PA, 3)
+    FGA = round(FGA, 3)
+    FTA = round(FTA, 3)
+    PTA = round(PTA, 3)
+    RTA = round(RTA, 3)
 
-print("\n=== Overall evaluation results ===")
-df_result = pd.DataFrame(bechmark_result, columns=["Dataset", "F1_measure", "Accuracy"])
+    benchmark_result.append([dataset, GA, PA, FGA, PTA, RTA, FTA, parsing_time])
+
+print("=== Overall evaluation results ===")
+df_result = pd.DataFrame(benchmark_result, columns=["Dataset", "GA", "PA", "FGA", "PTA", "RTA", "FTA", "P_Time"])
 df_result.set_index("Dataset", inplace=True)
+
+# 计算各指标的平均值，并保留三位小数
+average_GA = round(df_result["GA"].mean(), 3)
+average_PA = round(df_result["PA"].mean(), 3)
+average_FGA = round(df_result["FGA"].mean(), 3)
+average_PTA = round(df_result["PTA"].mean(), 3)
+average_RTA = round(df_result["RTA"].mean(), 3)
+average_FTA = round(df_result["FTA"].mean(), 3)
+average_parsing_time = round(df_result["P_Time"].mean(), 3)
+
+# 将新行添加到DataFrame中，包含平均值
+df_result.loc["Average"] = [average_GA, average_PA, average_FGA, average_PTA,
+                            average_RTA, average_FTA, average_parsing_time]
 print(df_result)
 df_result.to_csv("LogCluster_bechmark_result.csv", float_format="%.6f")

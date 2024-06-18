@@ -1,12 +1,27 @@
+# =========================================================================
+# Copyright (C) 2016-2023 LOGPAI (https://github.com/logpai).
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+# =========================================================================
 
-from logparser.LenMa.src.lenma_template import LenmaTemplateManager
+from .lenma_template import LenmaTemplateManager
 import pandas as pd
 import regex as re
 import os
 import hashlib
 from collections import defaultdict
 from datetime import datetime
-from  logparser.LenMa.compressors import DefaultCompressor
+
 
 class LogParser(object):
     def __init__(
@@ -14,11 +29,9 @@ class LogParser(object):
         indir,
         outdir,
         log_format,
-        compressor_instance=None,
         threshold=0.9,
         predefined_templates=None,
         rex=[],
-
     ):
         self.path = indir
         self.savePath = outdir
@@ -27,19 +40,11 @@ class LogParser(object):
         self.wordseqs = []
         self.df_log = pd.DataFrame()
         self.wordpos_count = defaultdict(int)
-
-        self.logname = None
-        # 创建Compressor实例
-        self.compressor = compressor_instance
-        print(f"Received compressor_instance: {compressor_instance}")
-        assert compressor_instance is not None, "Compressor instance is None inside LogParser __init__"
-
-        # 使用创建的compressor_instance初始化LenmaTemplateManager
         self.templ_mgr = LenmaTemplateManager(
-            threshold=threshold,
-            predefined_templates=predefined_templates,
-            compressor_instance=self.compressor,
+            threshold=threshold, predefined_templates=predefined_templates
         )
+        self.logname = None
+
     def parse(self, logname):
         print("Parsing file: " + os.path.join(self.path, logname))
         self.logname = logname
@@ -113,7 +118,7 @@ class LogParser(object):
         regex = ""
         for k in range(len(splitters)):
             if k % 2 == 0:
-                splitter = re.sub(" +", "\\\\s+", splitters[k])
+                splitter = re.sub(" +", "\\\s+", splitters[k])
                 regex += splitter
             else:
                 header = splitters[k].strip("<").strip(">")

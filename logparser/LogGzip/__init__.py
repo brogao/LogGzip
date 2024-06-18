@@ -1,1 +1,1 @@
-from .LogGzip import *
+from .src.LogGzip import *

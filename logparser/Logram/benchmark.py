@@ -21,6 +21,7 @@ from logparser.Logram import LogParser
 from logparser.utils import evaluator
 import os
 import pandas as pd
+import time
 
 
 input_dir = "../../data/loghub_2k/"  # The input directory of log file
@@ -154,7 +155,7 @@ benchmark_settings = {
     },
 }
 
-bechmark_result = []
+benchmark_result = []
 for dataset, setting in benchmark_settings.items():
     print("\n=== Evaluation on %s ===" % dataset)
     indir = os.path.join(input_dir, os.path.dirname(setting["log_file"]))
@@ -168,16 +169,46 @@ for dataset, setting in benchmark_settings.items():
         doubleThreshold=setting["doubleThreshold"],
         triThreshold=setting["triThreshold"],
     )
+    # 开始解析前获取当前时间
+    start_time = time.time()
+    # 开始解析
     parser.parse(log_file)
-
-    F1_measure, accuracy = evaluator.evaluate(
-        groundtruth=os.path.join(indir, log_file + "_structured.csv"),
+    # 解析完成后获取当前时间并计算解析所需时间
+    parsing_time = time.time() - start_time
+    # 保留三位小数
+    parsing_time = round(parsing_time, 3)
+    # 更新调用evaluate函数
+    F1_m, GA, FTA, PTA, RTA = evaluator.evaluate(
+        groundtruth=os.path.join(indir, log_file + "_structured_cor.csv"),
+        # groundtruth=os.path.join(indir, log_file + "_structured_corrected.csv"),
         parsedresult=os.path.join(output_dir, log_file + "_structured.csv"),
     )
-    bechmark_result.append([dataset, F1_measure, accuracy])
+    # 对所有指标保留三位小数
+    F1_m = round(F1_m, 3)
+    GA = round(GA, 3)
+    FTA = round(FTA, 3)
+    PTA = round(PTA, 3)
+    RTA = round(RTA, 3)
 
-print("\n=== Overall evaluation results ===")
-df_result = pd.DataFrame(bechmark_result, columns=["Dataset", "F1_measure", "Accuracy"])
+    benchmark_result.append([dataset, F1_m, GA, PTA, RTA, FTA, parsing_time])
+
+print("=== Overall evaluation results ===")
+df_result = pd.DataFrame(benchmark_result, columns=["Dataset", "F1_m", "GA", "PTA", "RTA", "FTA", "P_Time"])
 df_result.set_index("Dataset", inplace=True)
+
+# 计算各指标的平均值，并保留三位小数
+average_f1 = round(df_result["F1_m"].mean(), 3)
+average_accuracy = round(df_result["GA"].mean(), 3)
+average_FTA = round(df_result["FTA"].mean(), 3)
+average_PTA = round(df_result["PTA"].mean(), 3)
+average_RTA = round(df_result["RTA"].mean(), 3)
+average_parsing_time = round(df_result["P_Time"].mean(), 3)
+
+# 将新行添加到DataFrame中，包含平均值
+df_result.loc["Average"] = [average_f1, average_accuracy, average_FTA, average_PTA,
+                            average_RTA, average_parsing_time]
 print(df_result)
-df_result.to_csv("Logram_bechmark_result.csv", float_format="%.6f")
+# 将结果保存为CSV文件
+output_csv_file = os.path.join(output_dir, "Drain_results.csv")
+df_result.to_csv(output_csv_file)
+print(f"Results have been saved to {output_csv_file}")
