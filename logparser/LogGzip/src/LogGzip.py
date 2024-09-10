@@ -1,4 +1,4 @@
-#LogGzip.py代码如下
+#LogGzip.py
 from logparser.LogGzip.src.LogGzip_template import LenmaTemplateManager
 import pandas as pd
 import regex as re
@@ -21,7 +21,7 @@ class LogParser(object):
         predefined_templates=None,
         rex=[],
         mask_digits=False,
-
+        delimiters=None,
     ):
         self.path = indir
         self.savePath = outdir
@@ -30,9 +30,10 @@ class LogParser(object):
         self.wordseqs = []
         self.df_log = pd.DataFrame()
         self.wordpos_count = defaultdict(int)
-        self.mask_digits = mask_digits  # 新增属性
+        self.mask_digits = mask_digits
         self.logname = None
         self.compressor = compressor_instance
+        self.delimiters = delimiters or [r'\s+']
         print(f"Received compressor_instance: {compressor_instance}")
         assert compressor_instance is not None, "Compressor instance is None inside LogParser __init__"
 
@@ -50,6 +51,7 @@ class LogParser(object):
         self.df_log = self.log_to_dataframe(
             os.path.join(self.path, self.logname), regex, headers, self.logformat
         )
+        is_apache = "Apache" in logname
         digit_rex = re.compile(r'(?<!\d)\d{2,}(?!\d)|(?<!\d)\d(?!\d)')
         for idx, line in self.df_log.iterrows():
             line = line["Content"]
@@ -60,13 +62,22 @@ class LogParser(object):
                 line = re.sub(r'\(<\*> <\*>\)', '', line)
             else:
                 line = re.sub(r'(\b\d+:\d+\b)', '<*>', line)
-                line = digit_rex.sub('<*>', line)
+                if not is_apache:
+                    line = digit_rex.sub('<*>', line)
                 line = re.sub(r'(?<=\s|\])([^\s]*\*){3,}[^\s*]*(?=\s\]|\s[^]]|$)', '<*>', line)
 
-            words = line.split()
+            words = self.tokenize(line, delimiters=self.delimiters)
             self.templ_mgr.infer_template(words, idx, self.mask_digits)
         self.dump_results()
         print("Parsing done. [Time taken: {!s}]".format(datetime.now() - starttime))
+
+    def tokenize(self, line, delimiters):
+
+        token_delimiters = '|'.join(delimiters)
+        tokens = re.split('(' + token_delimiters + ')', line)
+
+        tokens = [token for token in tokens if token.strip()]
+        return tokens
 
     def dump_results(self):
         if not os.path.isdir(self.savePath):

@@ -22,7 +22,7 @@ import pandas as pd
 import os
 import time
 
-input_dir = "../../data/loghub_2K/"  # The input directory of log file
+input_dir = "../../data/loghub_24/"  # The input directory of log file
 output_dir = "Brain_result/"  # The output directory of parsing results
 
 
@@ -165,17 +165,12 @@ for dataset, setting in benchmark_settings.items():
         threshold=setting["theshold"],
         logname=dataset,
     )
-
     start_time = time.time()
-
     parser.parse(log_file)
-
     parsing_time = time.time() - start_time
-
     parsing_time = round(parsing_time, 3)
-
     GA, FGA, PTA, RTA, FTA = evaluator.evaluate(
-        groundtruth=os.path.join(indir, log_file + "_structured_cor.csv"),
+        groundtruth=os.path.join(indir, log_file + "_structured_rev.csv"),
         # groundtruth=os.path.join(indir, log_file + "_structured_corrected.csv"),
         parsedresult=os.path.join(output_dir, log_file + "_structured.csv"),
     )
@@ -202,7 +197,6 @@ average_parsing_time = round(df_result["P_Time"].mean(), 3)
 df_result.loc["Average"] = [average_GA, average_FGA, average_PTA,
                             average_RTA, average_FTA, average_parsing_time]
 print(df_result)
-# 将结果保存为CSV文件
-output_csv_file = os.path.join(output_dir, "Brain_results.csv")
+output_csv_file = os.path.join(output_dir, "results.csv")
 df_result.to_csv(output_csv_file)
 print(f"Results have been saved to {output_csv_file}")

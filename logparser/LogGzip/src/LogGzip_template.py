@@ -1,4 +1,4 @@
-#lenma_template.py的代码如下：
+#lenma_template.py：
 import json
 import numpy as np
 from sklearn.metrics import accuracy_score
@@ -8,7 +8,6 @@ from importlib import import_module
 import re
 
 def NCD(c1: float, c2: float, c12: float) -> float:
-    # distance = (c12 - min(c1, c2)) / max(c1, c2)
     distance = max((c12 - c1) / c2 , (c12 - c2) / c1)
     return distance
 def agg_by_concat_space(t1: str, t2: str) -> str:
@@ -31,7 +30,7 @@ class LenmaTemplate(template.Template):
             self._counts = 1
             self._logid = [logid]
             self.compressor = compressor
-            self.mask_digits = mask_digits  # 新增属性
+            self.mask_digits = mask_digits
             assert self.compressor is not None, "Compressor instance is None in LenmaTemplate"
 
     @property
@@ -57,8 +56,7 @@ class LenmaTemplate(template.Template):
         return True
 
     def _get_accuracy_score(self, new_words):
-        # accuracy score
-        # wildcard word matches any words
+
         fill_wildcard = [self.words[idx] if self.words[idx] != ''
                          else new_words[idx] for idx in range(self.nwords)]
         ac_score = accuracy_score(fill_wildcard, new_words)
