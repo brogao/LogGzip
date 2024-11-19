@@ -1,4 +1,4 @@
-#lenma_template.py：
+#lenma_template.py的代码如下：
 import json
 import numpy as np
 from sklearn.metrics import accuracy_score
@@ -6,6 +6,18 @@ from sklearn.metrics.pairwise import cosine_similarity
 from logparser.LogGzip.src import template
 from importlib import import_module
 import re
+#LogGzip_template.py：
+import json
+import numpy as np
+from sklearn.metrics import accuracy_score
+from sklearn.metrics.pairwise import cosine_similarity
+from logparser.LogGzip.src import template
+from importlib import import_module
+import re
+import pickle
+import os
+import hashlib
+
 
 def NCD(c1: float, c2: float, c12: float) -> float:
     distance = max((c12 - c1) / c2 , (c12 - c2) / c1)
@@ -124,13 +136,25 @@ class LenmaTemplateManager(template.TemplateManager):
         super().__init__()
         self._threshold = threshold
         self.compressor_instance = compressor_instance
+        self.compression_dict = {}  # 在内存中维护压缩字典
 
         # 确保compressor_instance在传递之前不是None
         assert compressor_instance is not None, "Compressor instance is None before passing to LenmaTemplateManager"
 
-
     def infer_template(self, words, logid, mask_digits=False):
         nwords = len(words)
+        template_key = hashlib.md5(" ".join(words).encode("utf-8")).hexdigest()
+
+        if template_key in self.compression_dict:
+            existing_template = self.compression_dict[template_key]
+
+            # 检查是否是 LenmaTemplate 类型
+            if not isinstance(existing_template, LenmaTemplate):
+                print(f"Error: Expected LenmaTemplate, but got {type(existing_template)}")
+                return None  # 或者你可以返回一个新的模板对象
+
+            existing_template.update(words, logid)
+            return existing_template
 
         candidates = []
         for (index, template) in enumerate(self.templates):
@@ -145,12 +169,14 @@ class LenmaTemplateManager(template.TemplateManager):
         if len(candidates) > 0:
             index = candidates[0][0]
             self.templates[index].update(words, logid)
+            self.compression_dict[template_key] = self.templates[index]
             return self.templates[index]
 
-        # Pass compressor_instance instead of creating a new instance
         new_template = self._append_template(
-            LenmaTemplate(index=len(self.templates), words=words, logid=logid, compressor=self.compressor_instance, mask_digits=mask_digits)
+            LenmaTemplate(index=len(self.templates), words=words, logid=logid, compressor=self.compressor_instance,
+                          mask_digits=mask_digits)
         )
+        self.compression_dict[template_key] = new_template
         return new_template
 
     def dump_template(self, index):
@@ -158,3 +184,4 @@ class LenmaTemplateManager(template.TemplateManager):
 
     def restore_template(self, data):
         return LenmaTemplate(json=data)
+

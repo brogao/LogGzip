@@ -34,6 +34,7 @@ class LogParser(object):
         self.logname = None
         self.compressor = compressor_instance
         self.delimiters = delimiters or [r'\s+']
+        self.template_dict = {}
         print(f"Received compressor_instance: {compressor_instance}")
         assert compressor_instance is not None, "Compressor instance is None inside LogParser __init__"
 
@@ -68,6 +69,7 @@ class LogParser(object):
 
             words = self.tokenize(line, delimiters=self.delimiters)
             self.templ_mgr.infer_template(words, idx, self.mask_digits)
+
         self.dump_results()
         print("Parsing done. [Time taken: {!s}]".format(datetime.now() - starttime))
 

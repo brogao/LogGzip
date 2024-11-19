@@ -94,7 +94,7 @@ benchmark_settings = {
             r"([\w-]+\.){2,}[\w-]+",
             r"\b(\-?\+?\d+)\b|\b0[Xx][a-fA-F\d]+\b|\b[a-fA-F\d]{4,}\b",
         ],
-        "threshold": 0.1,
+        "threshold": 0.8,
         "mask_digits": False,
         "delimiters": [r'\s+', r'\_'],
     },
@@ -174,7 +174,7 @@ for dataset, setting in benchmark_settings.items():
     parser.parse(log_file)
     parsing_time = time.time() - start_time
     parsing_time = round(parsing_time, 3)
-    GA, FGA, PTA, RTA, FTA = evaluator.evaluate(
+    GA, FGA, FTA, PTA, RTA = evaluator.evaluate(
         groundtruth=os.path.join(indir, log_file + "_structured_rev.csv"),
         # groundtruth=os.path.join(indir, log_file + "_structured_corrected.csv"),
         parsedresult=os.path.join(output_dir, log_file + "_structured.csv"),
@@ -182,14 +182,14 @@ for dataset, setting in benchmark_settings.items():
 
     GA = round(GA, 3)
     FGA = round(FGA, 3)
-    FTA = round(FTA, 3)
     PTA = round(PTA, 3)
     RTA = round(RTA, 3)
+    FTA = round(FTA, 3)
 
-    benchmark_result.append([dataset, GA, FGA, PTA, RTA, FTA, parsing_time])
+    benchmark_result.append([dataset, GA, FGA, FTA, PTA, RTA, parsing_time])
 
 print("=== Overall evaluation results ===")
-df_result = pd.DataFrame(benchmark_result, columns=["Dataset", "GA", "FGA", "PTA", "RTA", "FTA", "P_Time"])
+df_result = pd.DataFrame(benchmark_result, columns=["Dataset", "GA", "FGA", "FTA", "PTA", "RTA", "P_Time"])
 df_result.set_index("Dataset", inplace=True)
 
 average_GA = round(df_result["GA"].mean(), 3)
@@ -199,8 +199,8 @@ average_RTA = round(df_result["RTA"].mean(), 3)
 average_FTA = round(df_result["FTA"].mean(), 3)
 average_parsing_time = round(df_result["P_Time"].mean(), 3)
 
-df_result.loc["Average"] = [average_GA, average_FGA, average_PTA,
-                            average_RTA, average_FTA, average_parsing_time]
+df_result.loc["Average"] = [average_GA, average_FGA, average_FTA, average_PTA,
+                            average_RTA, average_parsing_time]
 print(df_result)
 
 output_csv_file = os.path.join(output_dir, "LogGzip_results.csv")

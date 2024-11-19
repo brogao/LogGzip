@@ -138,8 +138,8 @@ def evaluate(groundtruth, parsedresult):
 
     # 打印所有的评估指标
     print(
-        "Grouping_Accuracy (GA): {:.4f},  FGA: {:.4f}, PTA: {:.4f}, RTA: {:.4f}, FTA: {:.4f}".format(
-            GA, FGA, PTA, RTA, FTA
+        "Grouping_Accuracy (GA): {:.4f},  FGA: {:.4f}, FTA: {:.4f}, PTA: {:.4f}, RTA: {:.4f}".format(
+            GA, FGA, FTA, PTA, RTA
         )
     )
     return GA, FGA, FTA, PTA, RTA
