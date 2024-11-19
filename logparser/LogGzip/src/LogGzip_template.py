@@ -1,11 +1,3 @@
-#lenma_template.py的代码如下：
-import json
-import numpy as np
-from sklearn.metrics import accuracy_score
-from sklearn.metrics.pairwise import cosine_similarity
-from logparser.LogGzip.src import template
-from importlib import import_module
-import re
 #LogGzip_template.py：
 import json
 import numpy as np
@@ -136,7 +128,7 @@ class LenmaTemplateManager(template.TemplateManager):
         super().__init__()
         self._threshold = threshold
         self.compressor_instance = compressor_instance
-        self.compression_dict = {}  # 在内存中维护压缩字典
+        self.compression_dict = {}
 
         # 确保compressor_instance在传递之前不是None
         assert compressor_instance is not None, "Compressor instance is None before passing to LenmaTemplateManager"
@@ -148,10 +140,10 @@ class LenmaTemplateManager(template.TemplateManager):
         if template_key in self.compression_dict:
             existing_template = self.compression_dict[template_key]
 
-            # 检查是否是 LenmaTemplate 类型
+
             if not isinstance(existing_template, LenmaTemplate):
                 print(f"Error: Expected LenmaTemplate, but got {type(existing_template)}")
-                return None  # 或者你可以返回一个新的模板对象
+                return None
 
             existing_template.update(words, logid)
             return existing_template
